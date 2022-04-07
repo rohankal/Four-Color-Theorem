@@ -1,4 +1,6 @@
-## READ ME
-The homework 3 submission includes 3 files which span two separate problems from this assignment. To test the Four-Color theorem problem, typing "make" will create an executable by the name of "coloring" which can be ran with the command "./coloring filename", where filename is replaced by the name of the textfile which holds the map. Running this executable will print out the letters and their respective colors to the console. 
+## Four Color Theorem
+This is a demo of the Four Color Theorem, which is a really interesting theorem which states that "no more than four colors are required to color the regions of any map so that no two adjacent regions have the same color." 
 
-There is also a header file which includes the full implementation of a MinHeap using the STL's vector. This can be tested by making a separate test.cpp.
+
+## Running the Code
+To test the Four-Color theorem problem, typing "make" will create an executable by the name of "coloring" which can be ran with the command "./coloring filename", where filename is replaced by the name of the textfile which holds the map. Running this executable will print out the letters and their respective colors to the console.
